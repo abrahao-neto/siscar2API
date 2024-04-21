@@ -1,0 +1,6 @@
+@Siscar2App.API_HostAddress = http://localhost:5226
+
+GET {{Siscar2App.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
